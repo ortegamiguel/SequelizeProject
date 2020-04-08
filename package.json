@@ -1,0 +1,25 @@
+{
+  "name": "SequelizeProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ortegamiguel/SequelizeProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ortegamiguel/SequelizeProject/issues"
+  },
+  "homepage": "https://github.com/ortegamiguel/SequelizeProject#readme",
+  "dependencies": {
+    "sequelize": "^5.21.6",
+    "sequelize-cli": "^5.5.1",
+    "sqlite3": "^4.1.1"
+  }
+}
